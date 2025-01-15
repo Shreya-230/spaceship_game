@@ -13,12 +13,15 @@ This is a simple Space Invaders game created using Pygame. The player controls a
 # Installation
 1.Clone the repository:
 git clone https://github.com/yourusername/space-invaders.git
+
 2.Install Pygame: If you don't have Pygame installed, you can install it using pip:
 pip install pygame
+
 3.Download the images: The game uses some images (background, aircraft, aliens, and bullet). Make sure you have the following files in the same directory:
 background.png: Background image for the game.
 aircraft.png: Image for the player's spaceship.
 alien4.png: Image for the alien enemies.
 bullet.png: Image for the bullet.
+
 4.Run the Game: After setting up the images and installing Pygame, you can run the game by executing the Python file:
 python space_invaders.py
